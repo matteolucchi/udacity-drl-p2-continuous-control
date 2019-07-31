@@ -7,8 +7,7 @@ This repository contains all the material relative to the implementation of the 
 ## The Environment
 The environment consists of a double jointed arms that can move to a target location. The goal of the agent is to maintain the position at the target location for as many time steps as possible. The full environment consists of 20 identical copies of the double jointed arm.  
 
-<!--  Insert GIF of env-->
-<!-- ![reacher](url) -->
+![continuous_control](https://user-images.githubusercontent.com/36470989/62230382-f90dc500-b3c1-11e9-9692-43c08819c691.gif)
 
 The following description is for a single double-jointed arm.
 ### State Space
